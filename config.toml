@@ -3,6 +3,7 @@ title = "Jefferson Oliveira"
 #themesDir = "../.."
 theme = "m10c"
 paginate = 8
+publishdir = "docs/"
 
 [menu]
   [[menu.main]]
@@ -23,7 +24,7 @@ paginate = 8
 
 [params]
   author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  description = "Em breve mais sobre mim."
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
