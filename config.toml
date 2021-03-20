@@ -21,6 +21,11 @@ publishdir = "docs/"
     name = "About"
     url = "/about/"
     weight = 3
+  [[menu.main]]
+    identifier = "sobre"
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 4
 
 [params]
   author = "John Doe"
