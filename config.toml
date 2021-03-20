@@ -23,6 +23,7 @@ publishdir = "docs/"
     weight = 3
   [[menu.main]]
     identifier = "sobre"
+    pre = "<i class='fas fa-info'></i>"
     name = "Sobre"
     url = "/sobre/"
     weight = 4
@@ -39,6 +40,10 @@ publishdir = "docs/"
     icon = "twitter"
     name = "Twitter"
     url = "https://twitter.com/joejeff1982"
+  [[params.social]]
+    icon = "youtube"
+    name = "Youtube"
+    url = "https://www.youtube.com/channel/UCsOTyjn5Hrr0-fZ4Gc8FrJQ"
 
   # Default theme
   #[params.style]
